@@ -1,9 +1,23 @@
-# 📱 SmartClass Monitor – Ứng dụng giám sát và cảnh báo thời gian sử dụng điện thoại
+<h2 align="center"> 
+     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin"> 
+     🎓 Faculty of Information Technology (DaiNam University) 
+     </a> 
+ </h2> 
+ <h2 align="center"> 
+    ỨNG DỤNG GIÁM SÁT VÀ CẢNH BÁO THỜI GIAN SỬ DỤNG ĐIỆN THOẠI
+ </h2> 
+ <div align="center"> 
+     <p align="center"> 
+         <img alt="AIoTLab Logo" width="170" src="https://github.com/user-attachments/assets/711a2cd8-7eb4-4dae-9d90-12c0a0a208a2" /> 
+         <img alt="AIoTLab Logo" width="180" src="https://github.com/user-attachments/assets/dc2ef2b8-9a70-4cfa-9b4b-f6c2f25f1660" /> 
+         <img alt="DaiNam University Logo" width="200" src="https://github.com/user-attachments/assets/77fe0fd1-2e55-4032-be3c-b1a705a1b574" /> 
+     </p> 
 
-**Tác giả:** Phạm Văn Duy, Đỗ Trọng Minh Tiến  
-**Nhóm 2:** – CNTT 16-03  
-**Giảng viên hướng dẫn:** Ks. Nguyễn Văn Nhân  
-**Khoa:** Công Nghệ Thông Tin – Trường Đại học Đại Nam, Việt Nam  
+ [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab) 
+ [![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin) 
+ [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn) 
+ 
+ </div> 
 
 ---
 
@@ -71,7 +85,7 @@ MongoDB (Database) + AI Engine (Python Flask)
 - Biểu đồ: cột, tròn, heatmap, radar, scatter.
 - Báo cáo tự động gửi email hàng tuần.
 <img width="1340" height="600" alt="image" src="https://github.com/user-attachments/assets/4b044618-1dc8-423a-9215-fd383baeae56" />
-### 🔹 **5. Cách chạy dự án**
+### 🔹 5. Cách chạy dự án
 
 1. **Chạy Backend** (mở Terminal/PowerShell)  
    ```powershell
@@ -94,3 +108,9 @@ Mở file test sinh viên trong thư mục public/
 → Nhấn chuột phải → Open with Live Server
 → Hoặc mở bằng Chrome trên điện thoại (cùng wifi)
 Xong! Mở TikTok/YouTube/Facebook trên file test → dữ liệu, biểu đồ, cảnh báo và Trợ lý AI sẽ cập nhật tức thì trên màn hình giảng viên
+
+## 6. Thông tin liên hệ  
+**Tác giả:** Phạm Văn Duy, Đỗ Trọng Minh Tiến  
+**Nhóm 2:** – CNTT 16-03  
+**Giảng viên hướng dẫn:** Ks. Nguyễn Văn Nhân  
+**Khoa:** Công Nghệ Thông Tin – Trường Đại học Đại Nam, Việt Nam  

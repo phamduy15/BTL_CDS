@@ -111,6 +111,6 @@ Xong! Mở TikTok/YouTube/Facebook trên file test → dữ liệu, biểu đồ
 
 ## 6. Thông tin liên hệ  
 **Tác giả:** Phạm Văn Duy, Đỗ Trọng Minh Tiến  
-**Nhóm 2:** – CNTT 16-03  
+**Nhóm 2:** CNTT 16-03  
 **Giảng viên hướng dẫn:** Ks. Nguyễn Văn Nhân  
 **Khoa:** Công Nghệ Thông Tin – Trường Đại học Đại Nam, Việt Nam  
